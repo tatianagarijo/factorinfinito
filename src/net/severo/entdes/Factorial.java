@@ -1,5 +1,9 @@
 package net.severo.entdes;
-
+/**
+ * 
+ * @author Profesor
+ *
+ */
 public class Factorial {
 
 	public static void main(String[] args) {
