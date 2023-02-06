@@ -10,7 +10,7 @@ public class Factorial {
 
 		int n = (int) (Math.random() * 10);
 		int result = 1;
-		String value="Wert von n: ";
+		String value="Jonkin arvo n: ";
 		System.out.println(value + n);
 		while (n > 1) {
 			result = result * (n - 1);
